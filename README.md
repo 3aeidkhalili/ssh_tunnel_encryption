@@ -18,10 +18,10 @@
 داده‌ها: اطلاعاتی که می‌خواهید ارسال کنید.
 نیازمندی‌ها:
 نصب کتابخانه‌های paramiko و pycryptodome:
-pip install paramiko pycryptodome
+``pip install paramiko pycryptodome``
 نحوه استفاده:
 اسکریپت را به نام ssh_tunnel_encryption.py ذخیره کنید.
 اسکریپت را اجرا کنید:
-python ssh_tunnel_encryption.py
+``python ssh_tunnel_encryption.py``
 اطلاعات مورد نیاز (آدرس سرور، نام کاربری، مسیر کلید خصوصی و غیره) را وارد کنید.
 داده‌های شما پس از رمزنگاری به سرور مقصد ارسال می‌شود.
